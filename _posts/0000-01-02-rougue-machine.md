@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Still in the learning phase
+*I feel* hence **I am** 
 Lets hope we create something beautiful
 Edit 1
